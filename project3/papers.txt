@@ -1,2 +1,4 @@
 Redundant Memory Mappings for fast access to large memories, ISCA 2015
+The Direct-to-Data (D2D) cache: navigating the cache hierarchy with a single lookup, ISCA 2014
+
 
