@@ -1,4 +1,8 @@
 Redundant Memory Mappings for fast access to large memories, ISCA 2015
 The Direct-to-Data (D2D) cache: navigating the cache hierarchy with a single lookup, ISCA 2014
+Wormhole: Wisely Predicting Multidimensional Branches, MICRO 47 - 2014
+Loop-Aware Memory Prefetching Using Code Block Working Sets, MICRO 47 - 2014
+BuMP: Bulk Memory Access Prediction and Streaming, MICRO 47 - 2014
+
 
 
