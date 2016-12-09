@@ -1,0 +1,4 @@
+history lengths:3 8 12 17 33 35 67 97 138 195 330 517 
+TAGE(+extra space) 3600 bytes, LOOPPRED 376 bytes, Stat Cor 96 bytes, Wormhole 0 bytes, 0 per entry 
+TOTAL STORAGESIZE= 4072 bytes
+  MPKBr_1K         	 :   207.0000  MPKBr_10K         	 :    80.5000  MPKBr_100K         	 :    44.6000  MPKBr_1M         	 :    22.2570  MPKBr_10M         	 :    16.3472  MPKBr_30M         	 :    16.2993  MPKBr_60M         	 :    14.0011  MPKBr_100M         	 :    12.9122  MPKBr_300M         	 :    11.7290  TRACE 	 : ../traces/LONG_MOBILE-12.bt9.trace.gz  NUM_INSTRUCTIONS            	 : 1688784689  NUM_BR                      	 :  436394748  NUM_UNCOND_BR               	 :  112850745  NUM_CONDITIONAL_BR          	 :  323544003  NUM_MISPREDICTIONS          	 :    5059693  MISPRED_PER_1K_INST         	 :     2.9961
